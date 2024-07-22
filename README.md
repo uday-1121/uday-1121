@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uday-1121
+- 👋 Hi, I’m @Uday
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Information Technology
 - 💞️ I’m looking to collaborate on any tech idea
