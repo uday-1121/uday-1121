@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Uday
-- 👀 I’m interested in Web Develpoment
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Information Technology
 - 💞️ I’m looking to collaborate on any tech idea
 - 📫 You can reach me at udaydk22@gmail.com
